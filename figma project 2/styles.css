@@ -1,0 +1,223 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Roboto:wght@900&display=swap');
+.p2{
+  Font-family: "Inter";
+Font-style: Regular;
+Font-size: 50px;
+Line-height: 34px;
+Line-height: 140%;
+Align: Left;
+Vertical-align: Top;
+Letter-spacing: -1.7%;
+Fill: Solid;
+color:rgba (0, 0, 0, 0.8);
+
+
+}
+.header{
+width :100%;
+Height:100px;
+Top :100px;
+Left: 1612px;
+Font-family: "Inter";
+Font-style: Bold;
+Font-size: 48px;
+Align: Left;
+Vertical-align: Top;
+Letter-spacing: -2.2%;
+Fill: Solid#000000;
+
+}
+.p{
+  Font-family: "Inter";
+Font-style: Bold;
+Font-size: 20px;
+/* Line-height: 60px; */
+/* Line-height: 103%; */
+margin-top: -1rem;
+Align: Left;
+Vertical-align: Top;
+Letter-spacing: -1.1%;
+Fill: Solid
+#000000;
+}
+.p3{
+Font-family: "Inter";
+Font-style: (mixed);
+Font-size: 20px;
+Line-height: 34px;
+Line-height: 140%;
+Align: Left;
+Vertical-align: Top;
+Letter-spacing: -1.7%;
+margin-top: -1.5rem;
+
+}
+.Div{
+width: 849px;
+height: 314px;
+
+}
+.img{
+
+width: 20px;
+height: 17px;
+Background:#2C2C2C;
+
+}
+.one{
+
+width: 90px;
+height:200px;
+font-family: "Inter";
+font-style: normal;
+font-weight: normal;
+font-size: 144px;
+line-height: 120px;
+padding-left: -1rem;
+color: rgba(0, 0, 0, 0.1);
+}
+
+.container{
+width: 1000px;
+height: 2500px;
+background: #F0F0F0;
+padding-left: 5rem;
+
+}
+.first-container{
+  display: flex;
+  width: 100%;
+  padding-top:5rem;
+
+}
+
+.two{
+ position: absolute;
+width: 92px;
+height: 288px;
+font-family: "Inter";
+font-style: normal;
+font-weight: normal;
+font-size: 144px;
+line-height: 288px;
+padding-left:-2rem;
+color: rgba(0, 0, 0, 0.1);
+
+}
+ .wrap{
+  padding-left: 6rem;
+  padding-top: 1rem; 
+} 
+.third-container{
+  padding-left: 6rem;
+  padding-top: 3rem;
+}
+.recangle{
+  width: 849px;
+  height: 314px;
+  background: #FFFFFF;
+  display: flex;
+  padding-left: 3rem;
+  
+}
+.frame{
+font-family:" Inter";
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 22px;
+ letter-spacing: -0.017em; 
+color: #000000;
+}
+.device-frame{
+font-size: 1.2rem;
+} 
+.rectangle2{
+  /* position: absolute; */
+width: 849px;
+height: 314px;
+
+}
+.forth-container{
+  padding-left: 6rem;
+  padding-top: 3rem;
+}
+
+.recangle2{
+  width: 849px;
+  height: 314px;
+  background: #FFFFFF;
+  display: flex;
+  padding-left: 3rem;
+  
+}
+.frame2{
+font-family: "Inter";
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 22px;
+ letter-spacing: -0.017em; 
+color: #000000;
+}
+.device-frame2{
+font-size: 1.2rem;
+} 
+
+.fifth-container{
+  padding-left: 6rem;
+  padding-top: 3rem;
+}
+
+.recangle3{
+  width: 849px;
+  height: 314px;
+  background: #FFFFFF;
+  display: flex;
+  padding-left: 3rem;
+  
+}
+.frame3{
+font-family: "Inter";
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 22px;
+ letter-spacing: -0.017em; 
+color: #000000;
+}
+.device-frame3{
+font-size: 1.2rem;
+} 
+
+
+.sixth-container{
+  padding-left: 6rem;
+  padding-top: 3rem;
+}
+
+.recangle4{
+  width: 849px;
+  height: 314px;
+  background: #FFFFFF;
+  display: flex;
+  padding-left: 3rem;
+  
+}
+.frame4{
+font-family: "Inter";
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 22px;
+ letter-spacing: -0.017em; 
+color: #000000;
+}
+.device-frame4{
+font-size: 1.2rem;
+
+} 
+
+
+
+

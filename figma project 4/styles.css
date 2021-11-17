@@ -1,0 +1,68 @@
+*{
+  background:  rgba(208, 211, 217, 0.9);
+}
+
+ #container{
+  width:100%;
+  height: auto; 
+ /* background: #FFFFFF; */
+ background: url(images/Rectangle.png) no-repeat; 
+} 
+
+/* .right-panel{
+  width:100%;
+  height: auto; 
+ /* background: #FFFFFF; */
+ background: url(images/Rectangle.png) no-repeat; */
+
+}
+time{
+height: 18px;
+left: 0.33px;
+right: 1.67px;
+top: calc(50% - 18px/2 + 3.5px);
+
+font-family: SF Pro Text;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+text-align: center;
+letter-spacing: -0.333333px;
+
+color: #000000;
+
+}
+.battery{
+  width: 25px;
+height: 12px;
+right: 0px;
+top: 2px;
+}
+.network{
+  width: 18px;
+  height: 12px;
+  padding: 20px;
+  top: 2px;
+
+}
+.wifi{
+  width: 15.33px;
+height: 11px;
+right: 3px;
+top: 1.33px;
+
+
+}
+
+.icon-wrap{
+  display: inline-flex;
+  /* width: 68px;
+  height: 16px;
+  right: 14px;
+  /* top: 15px; *
+   */
+   padding-left: 25rem;
+
+  
+}
